@@ -1,259 +1,294 @@
-<div align="center">
+Abdullah Khalid
+Full Stack Developer | Laravel & Vue.js Specialist | AI Enthusiast
+<div align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Laravel+Developer;Vue.js+Specialist;AI+%26+OCR+Enthusiast;Community+Leader;Problem+Solver" /> </div>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=abdullahkhalid&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" /> <a href="https://github.com/abdullahkhalid?tab=followers"> <img src="https://img.shields.io/github/followers/abdullahkhalid?label=Followers&style=social" alt="GitHub Followers" /> </a> </p>
+🧑‍💻 About Me
+I'm Abdullah Khalid, a Full Stack Developer passionate about building modern web applications, enterprise management systems, and AI-powered software solutions. My expertise lies in Laravel, Vue.js, and AI integration, crafting scalable, efficient, and user-centric applications.
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=32&duration=3500&pause=1000&color=00C4FF&center=true&vCenter=true&width=900&lines=Hi+👋,+I'm+Abdullah+Khalid;Full+Stack+Laravel+Developer;Building+Scalable+Web+Applications;AI+%7C+OCR+%7C+Vue.js+%7C+Laravel;Always+Learning+Something+New+🚀" />
+"Building software that solves real-world problems while continuously learning and growing."
 
-<p>
-<img src="https://komarev.com/ghpvc/?username=Abdullah-Khalid-web&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
-<img src="https://img.shields.io/github/followers/Abdullah-Khalid-web?style=for-the-badge&logo=github"/>
-<img src="https://img.shields.io/github/stars/Abdullah-Khalid-web?style=for-the-badge&logo=github"/>
-</p>
+🎯 What I Do
+🚀 Develop robust Web Applications & Enterprise Systems
 
-</div>
+🤖 Integrate AI and OCR technologies
 
----
+🌐 Build SPAs with Vue.js
 
-# 👨‍💻 About Me
+📊 Create interactive Data Dashboards
 
-I'm a **Full Stack Laravel Developer** passionate about building scalable web applications, AI-powered tools, and business management systems.
+🏗️ Design Scalable Architectures
 
-🎓 BS Software Engineering Graduate
+🌟 Beyond Code
+👑 President — BUITEMS Developers Club (DBC)
 
-💼 Experienced in Laravel, Vue.js, PHP, MySQL & PostgreSQL
+🎤 Speaker & Mentor at tech events
 
-🤖 Interested in AI, OCR, Automation & SaaS
+🏆 Hackathon Participant & Organizer
 
-🚀 Love solving real-world business problems through software
+🤝 Community Builder impacting 500+ students
 
-🌱 Currently learning
+👑 Leadership
+<div align="center"> <img src="https://img.shields.io/badge/Leadership-FFD700?style=for-the-badge&logo=star&logoColor=black" alt="Leadership Badge" /> </div>
+President — BUITEMS Developers Club (DBC)
+📅 Oct 2022 – Jul 2025
 
-- Advanced System Design
-- AI Integration
-- Cloud Deployment
-- Microservices
+Led one of the largest student developer communities at BUITEMS, fostering a culture of innovation and learning.
 
----
+<details> <summary><b>🔍 Key Highlights</b></summary>
+👥 Led and managed a team of student volunteers
 
-# 🚀 Tech Stack
+🎤 Organized technical seminars & workshops
 
-### Languages
+💻 Conducted coding competitions
 
-<p>
-<img src="https://skillicons.dev/icons?i=php,js,python,html,css"/>
-</p>
+🚀 Hosted hackathons
 
-### Frameworks
+🤝 Connected students with industry professionals
 
-<p>
-<img src="https://skillicons.dev/icons?i=laravel,vue,nodejs,express,bootstrap"/>
-</p>
+📚 Mentored junior developers
 
-### Databases
+🎯 Impacted 500+ students through community events
 
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,postgresql"/>
-</p>
+</details>
+💼 Professional Experience
+<div align="center"> <img src="https://img.shields.io/badge/Experience-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Experience Badge" /> </div>
+🏢 Junior Software Engineer
+BRSP | 📍 Quetta, Pakistan
 
-### Tools
+Developed enterprise Management Information Systems (MIS) for government and organizational operations.
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,linux"/>
-</p>
+Key Projects:
 
----
+📊 MIS Management System
 
-# 💼 Experience
+📋 Tender Management System
 
-## Full Stack Developer — Techuick
+✅ Task Management Portal
 
-- Built scalable Laravel applications
-- Developed REST APIs
-- Integrated AI services
-- Developed Vue.js dashboards
-- Database optimization
-- Authentication & Authorization
+Tech Stack:
 
----
+text
+Laravel │ Vue.js │ PostgreSQL │ REST APIs │ Authentication │ Workflow Automation
+💻 Full Stack Developer
+Techuick | 📍 Remote
 
-## Junior Software Engineer — BRSP
+Developed scalable web applications and AI-powered solutions for diverse business needs.
 
-Worked on Management Information Systems (MIS)
+Key Projects:
 
-Tech Stack
+🤖 AI OCR Document Extractor
 
-- Laravel
-- Vue.js
-- PostgreSQL
+🏗️ TIndex Workspace Builder
 
-Responsibilities
+📦 Mitsubishi Import Export ERP
 
-- Backend Development
-- API Development
-- Database Design
-- Dashboard Development
-- Reporting Modules
+Tech Stack:
 
----
+text
+Laravel │ Vue.js SPA │ AI Integration │ REST APIs │ Database Optimization
+🚀 Featured Projects
+<div align="center"> <img src="https://img.shields.io/badge/Featured_Projects-FF6B6B?style=for-the-badge&logo=github&logoColor=white" alt="Projects Badge" /> </div><table> <tr> <td width="50%">
+📄 AI OCR Document Extractor
+Laravel • Vue • OCR • Gemini AI
 
-# 🚀 Featured Projects
+AI-powered document extraction with dynamic template mapping.
 
-## 📄 AI OCR Document Extractor
+Features:
 
-Laravel + Vue + OCR + AI
+✅ Dynamic Template Mapping
 
-✔ Dynamic Template Mapping
+✅ PDF Processing
 
-✔ OCR Data Extraction
+✅ OCR Extraction
 
-✔ AI Table Recognition
+✅ AI Table Recognition
 
-✔ PDF Processing
+✅ Queue Jobs
 
-✔ Queue Processing
+✅ Document Automation
 
----
+</td> <td width="50%">
+🏢 BRSP MIS
+Laravel • Vue • PostgreSQL
 
-## 🏪 Management Hub POS
+Government Management Information System for streamlined operations.
 
-Offline First POS System
+Features:
 
-Features
+✅ Employee Management
 
-- Inventory Management
-- Billing
-- Customer Management
-- Stock Tracking
-- Multi Shop Support
-- Electron Desktop App
+✅ Reporting & Analytics
 
----
+✅ Interactive Dashboard
 
-## 🤖 TIndex
+✅ Workflow Management
 
-AI Workspace Builder
+✅ Role-Based Access
 
-Features
+✅ Tender Module
 
-- Dynamic Forms
-- AI Prompt Builder
-- OCR
-- Custom Workspaces
+</td> </tr> <tr> <td width="50%">
+📦 Tender Management System
+Laravel
 
----
+Complete tender lifecycle management platform.
 
-## 📦 Mitsubishi Import Export System
+Features:
 
-Business ERP developed in Laravel
+✅ Tender Creation
 
-Modules
+✅ Bid Management
 
-- Orders
-- Inventory
-- Customers
-- Reporting
+✅ Approval Workflow
 
----
+✅ Reports Generation
 
-# 📈 GitHub Analytics
+✅ Notifications System
 
-<p align="center">
+</td> <td width="50%">
+📊 Streamlit Analytics Dashboard
+Python • Pandas • Plotly • Streamlit
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Abdullah-Khalid-web&show_icons=true&theme=tokyonight&hide_border=true"/>
+Interactive business intelligence dashboard.
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdullah-Khalid-web&layout=compact&theme=tokyonight&hide_border=true"/>
+Features:
 
-</p>
+✅ Data Visualization
 
----
+✅ Interactive Charts
 
-# 🔥 GitHub Streak
+✅ KPI Tracking
 
-<p align="center">
+✅ Automated Reports
 
-<img src="https://streak-stats.demolab.com?user=Abdullah-Khalid-web&theme=tokyonight&hide_border=true"/>
+</td> </tr> <tr> <td width="50%">
+🏪 POS Management Hub
+Electron • Laravel • Vue
 
-</p>
+Offline-first desktop POS solution.
 
----
+Features:
 
-# 🏆 GitHub Trophies
+✅ Offline First
 
-<p align="center">
+✅ Inventory Management
 
-<img src="https://github-profile-trophy.vercel.app/?username=Abdullah-Khalid-web&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15"/>
+✅ Billing System
 
-</p>
+✅ Stock Tracking
 
----
+✅ QR Code Generation
 
-# 📊 Activity Graph
+✅ Desktop Application
 
-<p align="center">
+</td> <td width="50%">
+🔧 Laravel Blog Platform
+Laravel • Vue.js • Tailwind
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Abdullah-Khalid-web&theme=tokyo-night&hide_border=true"/>
+Modern blogging platform with admin panel.
 
-</p>
+Features:
 
----
+✅ CRUD Operations
 
-# 🛠 Current Focus
+✅ User Authentication
 
-```text
-✔ Laravel 12
-✔ Vue.js 3
-✔ AI Integrations
-✔ OCR Systems
-✔ REST APIs
-✔ PostgreSQL
-✔ MySQL
-✔ SaaS Development
-✔ ERP Systems
-✔ POS Systems
-```
+✅ Comment System
 
----
+✅ Category Management
 
-# 🌟 Open Source Goals
+✅ SEO Friendly
 
-✅ Build useful Laravel packages
+✅ Responsive Design
 
-✅ Contribute to Open Source
+</td> </tr> </table>
+🛠️ Tech Stack
+<div align="center"> <img src="https://img.shields.io/badge/Tech_Stack-4CAF50?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Tech Stack Badge" /> </div>
+🔙 Backend
+https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white
+https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white
+https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white
+https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white
+https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
 
-✅ Learn Cloud Architecture
+🎨 Frontend
+https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white
+https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
+https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
+https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
+https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white
 
-✅ Build AI Products
+🗄️ Databases
+https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white
+https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white
 
----
+🛠️ Tools & Platforms
+https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white
+https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white
+https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white
+https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black
+https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white
+https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white
+https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white
 
-# 🤝 Let's Connect
+🤖 AI & Data
+https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white
+https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white
+https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white
+https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white
 
-<p align="left">
+🏆 Achievements & Certifications
+<div align="center"> <img src="https://img.shields.io/badge/Certifications-FFA500?style=for-the-badge&logo=academia&logoColor=white" alt="Certifications Badge" /> </div>
+📜 Certifications
+✅ Google Cybersecurity Professional Certificate
 
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+✅ Meta Front-End Developer
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+✅ HTML & CSS (Meta)
 
-<a href="https://github.com/Abdullah-Khalid-web">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
+✅ Version Control (Meta)
 
-</p>
+✅ Packet Tracer Ethical Hacking
 
----
+✅ DigiSkills Graphic Designing
 
-<div align="center">
+✅ DigiSkills WordPress
 
-## 💡 Developer Quote
+✅ NAVTTC Blockchain Course
 
-> "Code is not just about making software work; it's about solving real problems elegantly."
+✅ Artificial Intelligence Courses
 
----
+✅ REST API Development
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+✅ Laravel Advanced
 
-### ⭐ If you like my work, consider following me!
+🚀 Hackathons & Activities
+🏆 Hackathon Participant
 
-</div>
+🔐 Cyber Security Learning
+
+🌐 Web Development Events
+
+🤖 AI Workshops
+
+💻 Competitive Programming
+
+🎯 Community Events
+
+📊 GitHub Analytics
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=abdullahkhalid&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" /> <br/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdullahkhalid&theme=radical&hide_border=true" alt="GitHub Streak" /> <br/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahkhalid&theme=radical&hide_border=true&layout=compact" alt="Top Languages" /> <br/> <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdullahkhalid&theme=react-dark&hide_border=true" alt="Activity Graph" /> </div>
+🌐 Connect With Me
+<div align="center"> <a href="mailto:abdullahkhalid8835@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /> </a> <a href="https://linkedin.com/in/abdullahkhalid"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /> </a> <a href="https://github.com/abdullahkhalid"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /> </a> <a href="https://twitter.com/abdullahkhalid"> <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /> </a> </div>
+<div align="center"> <img src="https://raw.githubusercontent.com/abdullahkhalid/abdullahkhalid/output/snake.svg" alt="Snake Animation" /> </div>
+<div align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" /> </div>
+<div align="center"> <b>📍 Quetta, Pakistan</b> <br/> <i>💻 Open to collaborations and new opportunities</i> </div>
+<div align="center"> <img src="https://img.shields.io/badge/🚀%20Always%20Learning-FF6B6B?style=for-the-badge" alt="Always Learning" /> <img src="https://img.shields.io/badge/💡%20Open%20Source%20Enthusiast-4ECDC4?style=for-the-badge" alt="Open Source Enthusiast" /> <img src="https://img.shields.io/badge/🤝%20Community%20Builder-45B7D1?style=for-the-badge" alt="Community Builder" /> </div>
+<details> <summary><b>📈 Recent GitHub Activity</b></summary><!--START_SECTION:activity-->
+🚀 Pushed to project-name
+
+🎉 Created new repository repo-name
+
+💬 Commented on issue
+
+<!--END_SECTION:activity--></details>
+<div align="center"> <i>⭐️ From <a href="https://github.com/abdullahkhalid">Abdullah Khalid</a></i> <br/> <i>Last Updated: July 2026</i> </div>
