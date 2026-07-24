@@ -330,14 +330,18 @@ Features:
 </p>
 
 
-## AI & Data
-TensorFlow
-Pandas
-NumPy
-Streamlit
-OCR
-Gemini AI
-OpenAI APIs
+## 🤖 AI & Data
+
+<p>
+<img src="https://skillicons.dev/icons?i=tensorflow,python,numpy,pandas"/>
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+<img src="https://img.shields.io/badge/OCR-4285F4?style=for-the-badge&logo=googlelens&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gemini%20AI-8E75B2?style=for-the-badge&logo=google&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenAI%20API-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+</p>
 
 
 
