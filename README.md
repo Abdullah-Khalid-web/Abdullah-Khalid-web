@@ -1,15 +1,14 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=800&lines=Hi+👋+I'm+Abdullah+Khalid;Full+Stack+Laravel+Developer;Laravel+%7C+Vue.js+%7C+AI+%7C+OCR;Building+Real+World+Software+Solutions;Community+Leader+%26+Problem+Solver"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=900&lines=Hi+I'm+Abdullah+Khalid;Full+Stack+Laravel+Developer;Laravel+%7C+Vue.js+%7C+AI+%7C+OCR;Building+Real+World+Software+Solutions;Community+Leader+%26+Problem+Solver" />
 
-<br/>
+<br><br>
 
-<img src="https://komarev.com/ghpvc/?username=Abdullah-Khalid-web&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=Abdullah-Khalid-web&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 
-<img src="https://img.shields.io/github/followers/Abdullah-Khalid-web?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/github/followers/Abdullah-Khalid-web?style=for-the-badge&logo=github" />
 
 </div>
-
 
 # 👨‍💻 About Me
 
