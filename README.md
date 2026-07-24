@@ -406,19 +406,25 @@ Features:
 
 ---
 
+
 # 📈 GitHub Analytics
 
 <div align="center">
 
-<img 
-src="https://github-readme-stats.vercel.app/api?username=Abdullah-Khalid-web&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" 
-height="180"
-/>
+<img src="https://github-readme-stats.vercel.app/api?username=Abdullah-Khalid-web&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
 
-<img 
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdullah-Khalid-web&layout=compact&theme=tokyonight&hide_border=true" 
-height="180"
-/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdullah-Khalid-web&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+
+</div>
+
+
+---
+
+# 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Abdullah-Khalid-web&theme=tokyonight&hide_border=true" width="70%" />
 
 </div>
 
